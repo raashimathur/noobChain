@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/raashii/Downloads/gson-2.6.2.jar",
+        "/Users/raashii/Downloads/gson-2.10.1-javadoc.jar"
+    ]
+}
